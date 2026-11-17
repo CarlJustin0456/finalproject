@@ -38,7 +38,7 @@ while True:
         print("|                              *INTRODUCTION TO PROGRAMMING*                                  |")
         print("<--------------------------------------------------------------------------------------------->")
         print("\n<=============================================================================================>")
-        print("                              WHAT IS PROGRAMING?                                                ")
+        print("                                WHAT IS PROGRAMING?                                              ")
         print("-----------------------------------------------------------------------------------------------  ")
         print("A programing language is a special language that computer                                        ")
         print("Understand and use to Perform Task                                                               ")
