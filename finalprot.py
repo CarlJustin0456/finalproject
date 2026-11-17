@@ -6,7 +6,7 @@ while True:
 
     print("<=============================================================================================>")
     print("                       |        What Do you Want To Learn?:             |    ")
-    print("                       |        [1]  : INTRODUCTION TO PROGRAmMING      |    ")
+    print("                       |        [1]  : INTRODUCTION TO PROGRAMMING      |    ")
     print("                       |        [2]  : BASIC SYNTAX                     |    ")
     print("                       |        [3]  : PRINTING OUTPUT                  |    ")
     print("                       |        [4]  : PYTHON COMMENTS                  |    ")
