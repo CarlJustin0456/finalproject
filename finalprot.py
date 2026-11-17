@@ -489,9 +489,12 @@ while True:
         while back != "y":
             print("Invalid Choice!")
             print("use Only 'y' for Going back To the MainMenu!")
+            print("<============================================================>")
             back = input("Do you Want To go Back To MainMenu? (CLick y): ").lower()
+            print("<============================================================>")
         if back == "y":
             print("GOING BACK TO THE MainMenu!")
+
 
     elif choice == "10":
         print("<--------------------------------------------------------------------------------------------->")
@@ -576,9 +579,12 @@ while True:
         while back != "y":
             print("Invalid Choice!")
             print("use Only 'y' for Going back To the MainMenu!")
+            print("<============================================================>")
             back = input("Do you Want To go Back To MainMenu? (CLick y): ").lower()
+            print("<============================================================>")
         if back == "y":
             print("GOING BACK TO THE MainMenu!")
+
 
     elif choice == "11":
         print("<--------------------------------------------------------------------------------------------->")
@@ -629,7 +635,9 @@ while True:
         while back != "y":
             print("Invalid Choice!")
             print("use Only 'y' for Going back To the MainMenu!")
+            print("<============================================================>")
             back = input("Do you Want To go Back To MainMenu? (CLick y): ").lower()
+            print("<============================================================>")
         if back == "y":
             print("GOING BACK TO THE MainMenu!")
 
@@ -677,7 +685,9 @@ while True:
         while back != "y":
             print("Invalid Choice!")
             print("use Only 'y' for Going back To the MainMenu!")
+            print("<============================================================>")
             back = input("Do you Want To go Back To MainMenu? (CLick y): ").lower()
+            print("<============================================================>")
         if back == "y":
             print("GOING BACK TO THE MainMenu!")
 
