@@ -779,7 +779,7 @@ while True:
 
     elif choice == "13":
         print("\n<============================================================>")
-        print("                        EXIT PYTHON!                            ")
+        print("                      EXIT PYTHON TUTORIAL!                     ")
         print("<============================================================>  ")
         print("\n Hello Thank You For Using Python Tutorial!                   ")
         print(" I Hope You Learn Something new Alot About Python               ")
