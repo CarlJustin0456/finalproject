@@ -43,7 +43,7 @@ while True:
         print("A programing language is a special language that computer                                        ")
         print("Understand and use to Perform Task                                                               ")
         print("<=============================================================================================>")
-        print("                            *COMMON PROGRAMING LANGUAGE INCLUDED*                              ")
+        print("                            *COMMON PROGRAMMING LANGUAGE INCLUDED*                              ")
         print("<--------------------------------------------------------------------------------------------->")
         print(" Python - Easy To Learn And Read Great For Beginners,Data Science And AutoMation               ")
         print(" C/C++ - High performance and efficient. Used in system programming, games and applications    ")
