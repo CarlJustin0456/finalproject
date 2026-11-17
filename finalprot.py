@@ -81,8 +81,8 @@ while True:
             print("GOING BACK TO THE MainMenu!")
         elif back == "n":
             print("\n<============================================================>")
-            print("GOODBYE SEE YA!")
-            print("<============================================================>")
+            print("                      GOODBYE SEE YA!                           ")
+            print("<============================================================>  ")
             break
 
 
@@ -136,9 +136,8 @@ while True:
             print("GOING BACK TO THE MainMenu!")
         elif back == "n":
             print("\n<============================================================>")
-            print("GOODBYE SEE YA!")
-            print("<============================================================>")
-            break
+            print("                      GOODBYE SEE YA!                           ")
+            print("<============================================================>  ")
 
     elif choice == "3":
         print("\n<--------------------------------------------------------------------------------------------->")
@@ -196,8 +195,8 @@ while True:
             print("GOING BACK TO THE MainMenu!")
         elif back == "n":
             print("\n<============================================================>")
-            print("GOODBYE SEE YA!")
-            print("<============================================================>")
+            print("                      GOODBYE SEE YA!                           ")
+            print("<============================================================>  ")
             break
 
     elif choice == "4":
@@ -241,8 +240,8 @@ while True:
             print("GOING BACK TO THE MainMenu!")
         elif back == "n":
             print("\n<============================================================>")
-            print("GOODBYE SEE YA!")
-            print("<============================================================>")
+            print("                      GOODBYE SEE YA!                           ")
+            print("<============================================================>  ")
             break
 
     elif choice == "5":
@@ -333,8 +332,8 @@ while True:
             print("GOING BACK TO THE MainMenu!")
         elif back == "n":
             print("\n<============================================================>")
-            print("GOODBYE SEE YA!")
-            print("<============================================================>")
+            print("                      GOODBYE SEE YA!                           ")
+            print("<============================================================>  ")
             break
 
     elif choice == "6":
@@ -395,8 +394,8 @@ while True:
             print("GOING BACK TO THE MainMenu!")
         elif back == "n":
             print("\n<============================================================>")
-            print("GOODBYE SEE YA!")
-            print("<============================================================>")
+            print("                      GOODBYE SEE YA!                           ")
+            print("<============================================================>  ")
             break
 
     elif choice == "7":
@@ -460,8 +459,8 @@ while True:
             print("GOING BACK TO THE MainMenu!")
         elif back == "n":
             print("\n<============================================================>")
-            print("GOODBYE SEE YA!")
-            print("<============================================================>")
+            print("                      GOODBYE SEE YA!                           ")
+            print("<============================================================>  ")
             break
 
     elif choice == "8":
@@ -499,8 +498,8 @@ while True:
             print("GOING BACK TO THE MainMenu!")
         elif back == "n":
             print("\n<============================================================>")
-            print("GOODBYE SEE YA!")
-            print("<============================================================>")
+            print("                      GOODBYE SEE YA!                           ")
+            print("<============================================================>  ")
             break
 
     elif choice == "9":
@@ -537,8 +536,8 @@ while True:
             print("GOING BACK TO THE MainMenu!")
         elif back == "n":
             print("\n<============================================================>")
-            print("GOODBYE SEE YA!")
-            print("<============================================================>")
+            print("                      GOODBYE SEE YA!                           ")
+            print("<============================================================>  ")
             break
 
     elif choice == "10":
@@ -631,8 +630,8 @@ while True:
             print("GOING BACK TO THE MainMenu!")
         elif back == "n":
             print("\n<============================================================>")
-            print("GOODBYE SEE YA!")
-            print("<============================================================>")
+            print("                      GOODBYE SEE YA!                           ")
+            print("<============================================================>  ")
             break
 
     elif choice == "11":
@@ -691,8 +690,8 @@ while True:
             print("GOING BACK TO THE MainMenu!")
         elif back == "n":
             print("\n<============================================================>")
-            print("GOODBYE SEE YA!")
-            print("<============================================================>")
+            print("                      GOODBYE SEE YA!                           ")
+            print("<============================================================>  ")
             break
 
     elif choice == "12":
@@ -748,8 +747,8 @@ while True:
             print("GOING BACK TO THE MainMenu!")
         elif back == "n":
             print("\n<============================================================>")
-            print("GOODBYE SEE YA!")
-            print("<============================================================>")
+            print("                      GOODBYE SEE YA!                           ")
+            print("<============================================================>  ")
             break
 
     elif choice == "13":
