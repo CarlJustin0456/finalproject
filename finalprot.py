@@ -69,16 +69,22 @@ while True:
         print("(by JetBrains)                (VISUAL STUDIO CODE)                     NOTEBOOK / JUPYTERLAB   ")
         print("<=============================================================================================>")
         print("\n<============================================================>")
-        back = input("Do you Want To go Back To MainMenu? (CLick y): ").lower()
+        back = input("Do you Want To go Back To MainMenu? (y/n): ").lower()
         print("<============================================================>")
-        while back != "y":
+        while back != "y" and back != "n":
             print("Invalid Choice!")
-            print("use Only 'y' for Going back To the MainMenu!")
+            print("use Only 'y'for Going Back To MainMenu, 'n' For TurnOFF ")
             print("<============================================================>")
             back = input("Do you Want To go Back To MainMenu? (CLick y): ").lower()
             print("<============================================================>")
         if back == "y":
             print("GOING BACK TO THE MainMenu!")
+        elif back == "n":
+            print("\n<============================================================>")
+            print("GOODBYE SEE YA!")
+            print("<============================================================>")
+            break
+
 
     elif choice == "2":
         print("\n<--------------------------------------------------------------------------------------------->")
@@ -118,16 +124,21 @@ while True:
         print(' print("Adult")   <- Not Intended Outside Of The Block      ')
         print("<=============================================================================================>")
         print("\n<============================================================>")
-        back = input("Do you Want To go Back To MainMenu? (CLick y): ").lower()
+        back = input("Do you Want To go Back To MainMenu? (y/n): ").lower()
         print("<============================================================>")
-        while back != "y":
+        while back != "y" and back != "n":
             print("Invalid Choice!")
-            print("use Only 'y' for Going back To the MainMenu!")
+            print("use Only 'y'for Going Back To MainMenu, 'n' For TurnOFF ")
             print("<============================================================>")
             back = input("Do you Want To go Back To MainMenu? (CLick y): ").lower()
             print("<============================================================>")
         if back == "y":
-           print("GOING BACK TO THE MainMenu!")
+            print("GOING BACK TO THE MainMenu!")
+        elif back == "n":
+            print("\n<============================================================>")
+            print("GOODBYE SEE YA!")
+            print("<============================================================>")
+            break
 
     elif choice == "3":
         print("\n<--------------------------------------------------------------------------------------------->")
@@ -173,16 +184,21 @@ while True:
         print(" 25.5              Output looks the same, but they are treated as text (strings) in Python       ")
         print("<=============================================================================================>  ")
         print("\n<============================================================>")
-        back = input("Do you Want To go Back To MainMenu? (CLick y): ").lower()
+        back = input("Do you Want To go Back To MainMenu? (y/n): ").lower()
         print("<============================================================>")
-        while back != "y":
+        while back != "y" and back != "n":
             print("Invalid Choice!")
-            print("use Only 'y' for Going back To the MainMenu!")
+            print("use Only 'y'for Going Back To MainMenu, 'n' For TurnOFF ")
             print("<============================================================>")
             back = input("Do you Want To go Back To MainMenu? (CLick y): ").lower()
             print("<============================================================>")
         if back == "y":
             print("GOING BACK TO THE MainMenu!")
+        elif back == "n":
+            print("\n<============================================================>")
+            print("GOODBYE SEE YA!")
+            print("<============================================================>")
+            break
 
     elif choice == "4":
         print("\n<--------------------------------------------------------------------------------------------->")
@@ -213,16 +229,21 @@ while True:
         print(" The code inside triple quotes is ignored by Python                                            ")
         print("<=============================================================================================>  ")
         print("\n<============================================================>")
-        back = input("Do you Want To go Back To MainMenu? (CLick y): ").lower()
+        back = input("Do you Want To go Back To MainMenu? (y/n): ").lower()
         print("<============================================================>")
-        while back != "y":
+        while back != "y" and back != "n":
             print("Invalid Choice!")
-            print("use Only 'y' for Going back To the MainMenu!")
+            print("use Only 'y'for Going Back To MainMenu, 'n' For TurnOFF ")
             print("<============================================================>")
             back = input("Do you Want To go Back To MainMenu? (CLick y): ").lower()
             print("<============================================================>")
         if back == "y":
             print("GOING BACK TO THE MainMenu!")
+        elif back == "n":
+            print("\n<============================================================>")
+            print("GOODBYE SEE YA!")
+            print("<============================================================>")
+            break
 
     elif choice == "5":
         print("\n<--------------------------------------------------------------------------------------------->")
@@ -300,16 +321,21 @@ while True:
         print(" The Output will be Clark College                                                                ")
         print("<=============================================================================================>  ")
         print("\n<============================================================>")
-        back = input("Do you Want To go Back To MainMenu? (CLick y): ").lower()
+        back = input("Do you Want To go Back To MainMenu? (y/n): ").lower()
         print("<============================================================>")
-        while back != "y":
+        while back != "y" and back != "n":
             print("Invalid Choice!")
-            print("use Only 'y' for Going back To the MainMenu!")
+            print("use Only 'y'for Going Back To MainMenu, 'n' For TurnOFF ")
             print("<============================================================>")
             back = input("Do you Want To go Back To MainMenu? (CLick y): ").lower()
             print("<============================================================>")
         if back == "y":
             print("GOING BACK TO THE MainMenu!")
+        elif back == "n":
+            print("\n<============================================================>")
+            print("GOODBYE SEE YA!")
+            print("<============================================================>")
+            break
 
     elif choice == "6":
         print("\n<--------------------------------------------------------------------------------------------->")
@@ -357,16 +383,21 @@ while True:
         print(" print(is_enrolled)  -> prints status")
         print("<=============================================================================================>  ")
         print("\n<============================================================>")
-        back = input("Do you Want To go Back To MainMenu? (CLick y): ").lower()
+        back = input("Do you Want To go Back To MainMenu? (y/n): ").lower()
         print("<============================================================>")
-        while back != "y":
+        while back != "y" and back != "n":
             print("Invalid Choice!")
-            print("use Only 'y' for Going back To the MainMenu!")
+            print("use Only 'y'for Going Back To MainMenu, 'n' For TurnOFF ")
             print("<============================================================>")
             back = input("Do you Want To go Back To MainMenu? (CLick y): ").lower()
             print("<============================================================>")
         if back == "y":
             print("GOING BACK TO THE MainMenu!")
+        elif back == "n":
+            print("\n<============================================================>")
+            print("GOODBYE SEE YA!")
+            print("<============================================================>")
+            break
 
     elif choice == "7":
         print("\n<--------------------------------------------------------------------------------------------->")
@@ -417,16 +448,21 @@ while True:
         print("S - Subtraction     (Last)   ")
         print("<=============================================================================================>  ")
         print("\n<============================================================>")
-        back = input("Do you Want To go Back To MainMenu? (CLick y): ").lower()
+        back = input("Do you Want To go Back To MainMenu? (y/n): ").lower()
         print("<============================================================>")
-        while back != "y":
+        while back != "y" and back != "n":
             print("Invalid Choice!")
-            print("use Only 'y' for Going back To the MainMenu!")
+            print("use Only 'y'for Going Back To MainMenu, 'n' For TurnOFF ")
             print("<============================================================>")
             back = input("Do you Want To go Back To MainMenu? (CLick y): ").lower()
             print("<============================================================>")
         if back == "y":
             print("GOING BACK TO THE MainMenu!")
+        elif back == "n":
+            print("\n<============================================================>")
+            print("GOODBYE SEE YA!")
+            print("<============================================================>")
+            break
 
     elif choice == "8":
         print("\n<--------------------------------------------------------------------------------------------->")
@@ -451,16 +487,21 @@ while True:
         print(" print() displays Hello and the user's name   ")
         print("<=============================================================================================>")
         print("\n<============================================================>")
-        back = input("Do you Want To go Back To MainMenu? (CLick y): ").lower()
+        back = input("Do you Want To go Back To MainMenu? (y/n): ").lower()
         print("<============================================================>")
-        while back != "y":
+        while back != "y" and back != "n":
             print("Invalid Choice!")
-            print("use Only 'y' for Going back To the MainMenu!")
+            print("use Only 'y'for Going Back To MainMenu, 'n' For TurnOFF ")
             print("<============================================================>")
             back = input("Do you Want To go Back To MainMenu? (CLick y): ").lower()
             print("<============================================================>")
         if back == "y":
             print("GOING BACK TO THE MainMenu!")
+        elif back == "n":
+            print("\n<============================================================>")
+            print("GOODBYE SEE YA!")
+            print("<============================================================>")
+            break
 
     elif choice == "9":
         print("\n<--------------------------------------------------------------------------------------------->")
@@ -484,17 +525,21 @@ while True:
         print(" You Are a Child                                                ")
         print("<--------------------------------------------------------------------------------------------->  ")
         print("\n<============================================================>")
-        back = input("Do you Want To go Back To MainMenu? (CLick y): ").lower()
-        print("<============================================================>  ")
-        while back != "y":
+        back = input("Do you Want To go Back To MainMenu? (y/n): ").lower()
+        print("<============================================================>")
+        while back != "y" and back != "n":
             print("Invalid Choice!")
-            print("use Only 'y' for Going back To the MainMenu!")
+            print("use Only 'y'for Going Back To MainMenu, 'n' For TurnOFF ")
             print("<============================================================>")
             back = input("Do you Want To go Back To MainMenu? (CLick y): ").lower()
             print("<============================================================>")
         if back == "y":
             print("GOING BACK TO THE MainMenu!")
-
+        elif back == "n":
+            print("\n<============================================================>")
+            print("GOODBYE SEE YA!")
+            print("<============================================================>")
+            break
 
     elif choice == "10":
         print("<--------------------------------------------------------------------------------------------->")
@@ -573,18 +618,22 @@ while True:
         print("\n-----WHY IS THE ANSWER IS TRUE?-------")
         print(" Because The 5 is smaller than a 10     ")
         print("<=============================================================================================>")
-        print("\n<=============================================================================> ")
-        back = input("Do you Want To go Back To MainMenu? (CLick y): ").lower()
-        print("<=============================================================================>  ")
-        while back != "y":
+        print("\n<============================================================>")
+        back = input("Do you Want To go Back To MainMenu? (y/n): ").lower()
+        print("<============================================================>")
+        while back != "y" and back != "n":
             print("Invalid Choice!")
-            print("use Only 'y' for Going back To the MainMenu!")
+            print("use Only 'y'for Going Back To MainMenu, 'n' For TurnOFF ")
             print("<============================================================>")
             back = input("Do you Want To go Back To MainMenu? (CLick y): ").lower()
             print("<============================================================>")
         if back == "y":
             print("GOING BACK TO THE MainMenu!")
-
+        elif back == "n":
+            print("\n<============================================================>")
+            print("GOODBYE SEE YA!")
+            print("<============================================================>")
+            break
 
     elif choice == "11":
         print("<--------------------------------------------------------------------------------------------->")
@@ -630,16 +679,21 @@ while True:
         print("In this example, is_student is True, so the result is False     ")
         print("<=============================================================================================>")
         print("\n<============================================================>")
-        back = input("Do you Want To go Back To MainMenu? (CLick y): ").lower()
-        print("<============================================================>  ")
-        while back != "y":
+        back = input("Do you Want To go Back To MainMenu? (y/n): ").lower()
+        print("<============================================================>")
+        while back != "y" and back != "n":
             print("Invalid Choice!")
-            print("use Only 'y' for Going back To the MainMenu!")
+            print("use Only 'y'for Going Back To MainMenu, 'n' For TurnOFF ")
             print("<============================================================>")
             back = input("Do you Want To go Back To MainMenu? (CLick y): ").lower()
             print("<============================================================>")
         if back == "y":
             print("GOING BACK TO THE MainMenu!")
+        elif back == "n":
+            print("\n<============================================================>")
+            print("GOODBYE SEE YA!")
+            print("<============================================================>")
+            break
 
     elif choice == "12":
         print("<--------------------------------------------------------------------------------------------->")
@@ -679,17 +733,24 @@ while True:
         print(" The while loop starts at 1                 ")
         print(" It prints the number and adds 1 each time  ")
         print(" It stops when count becomes greater than 3.")
+        print("<--------------------------------------------------------------------------------------------->")
+        print("<=============================================================================================>")
         print("\n<============================================================>")
-        back = input("Do you Want To go Back To MainMenu? (CLick y): ").lower()
-        print("<============================================================>  ")
-        while back != "y":
+        back = input("Do you Want To go Back To MainMenu? (y/n): ").lower()
+        print("<============================================================>")
+        while back != "y" and back != "n":
             print("Invalid Choice!")
-            print("use Only 'y' for Going back To the MainMenu!")
+            print("use Only 'y'for Going Back To MainMenu, 'n' For TurnOFF ")
             print("<============================================================>")
             back = input("Do you Want To go Back To MainMenu? (CLick y): ").lower()
             print("<============================================================>")
         if back == "y":
             print("GOING BACK TO THE MainMenu!")
+        elif back == "n":
+            print("\n<============================================================>")
+            print("GOODBYE SEE YA!")
+            print("<============================================================>")
+            break
 
     elif choice == "13":
         print("\n<============================================================>")
